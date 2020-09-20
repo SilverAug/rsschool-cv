@@ -4,5 +4,5 @@
 4.HTML, CSS, JS for beginners
 5.'<p>Something in a case </p>'
 6.
-7.University degree 
-8. Pre-intermediate
+7. Universery degree
+8. Pre-Intermediate
